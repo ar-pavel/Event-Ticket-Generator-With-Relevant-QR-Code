@@ -2,7 +2,7 @@
 This program generates ticket from the data stored in csv file
 
 ## Technology Used 
-* Java
-* JavaAWT
-* google zxing
-* Maven
+* **Java**: used to write the whole backend 
+* **JavaAWT**: used in frontend 
+* **google zxing**: used to generate QR code
+* **Maven**
