@@ -1,5 +1,6 @@
 # Automatic-Ticket-Generator-With-Automated-QR-Code
-This program generates ticket from the data stored in csv file
+
+Generates ticket according to provided ticket `image` template  and read data from `CSV`  . 
 
 ## Technology Used 
 * **Java**: used to write the whole backend 
